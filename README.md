@@ -2,7 +2,10 @@
 
 ###
 
-
+- 🔭 I’m working as a SDET,
+- 💻 Also, Computer Engineer.
+- 🌱 I’m currently learning Swift (UIkit, SwiftUI).
+- 💬 If you're new to learning to software, I can help you.
 
 ###
 
@@ -25,6 +28,9 @@
   <a href="https://www.linkedin.com/in/senanur-korkmaz-657802206/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
     <a/>
+       <a >
+  <img src="https://komarev.com/ghpvc/?username=senakorkmaz&&color=blueviolet&label=PROFILE+VIEWS" height="35" alt="Profile Counter"  />
+  </a>
 </div>
 
 ###
