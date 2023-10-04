@@ -4,7 +4,7 @@
 
 - 🔭 I’m working as a SDET,
 - 💻 Also, Computer Engineer.
-- 🌱 I’m currently coding Swift (UIkit, SwiftUI).
+- 🌱 I’m currently coding iOS App with Swift (UIkit, SwiftUI).
 - 💬 If you're new to learning to software, I can help you.
 
 ###
